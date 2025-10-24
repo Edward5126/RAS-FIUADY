@@ -1,0 +1,2915 @@
+{
+  "data": [
+    {
+      "type": "events",
+      "id": "492938",
+      "attributes": {
+        "id": 492938,
+        "title": "1era Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAsistencia:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"line-height: 115%; font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAdolfo Pantoja\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAcuerdos:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERegistro en la cuenta oficial de IEEE.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAcceso a las cuentas IEEE y RAS.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EFamiliarizaci&oacute;n con las responsabilidades de cada rol de la mesa directiva.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EActividades:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELlenado del formato de creaci&oacute;n de la rama RAS.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2024-12-26T20:00:00.000Z",
+        "end-time": "2025-07-14T22:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-15T04:34:38.000Z",
+          "report_updated": "2025-07-15T04:34:38.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E1era Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #directivos #administrativo #STEM",
+        "tags": [
+          "#RAS",
+          "#directivos",
+          "#administrativo",
+          "#STEM"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cdiv class=\"col-sm-3 ieee_bright_orange_bl2\"\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E\r\n\u003C/div\u003E\r\n\u003Cdiv class=\"col-sm-3 ieee_bright_orange_bl2\"\u003E&nbsp;\u003C/div\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "3A25548E-8A10-4884-BD06-09141BDDA228",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/492938",
+        "ieee-attending": 6,
+        "guests-attending": 0,
+        "created-at": "2025-07-15T04:34:38.000Z",
+        "updated-at": "2025-07-17T04:35:01.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "7"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493211",
+      "attributes": {
+        "id": 493211,
+        "title": "2da Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAdolfo Pantoja\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003E&nbsp; &nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003C!--[endif]--\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EHiram Fern&aacute;ndez Sol&iacute;s\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe acord&oacute; que los miembros de la mesa directiva deben comprar su membres&iacute;a RAS e IEEE.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERealizar formato para documentos de visitas t&eacute;cnicas.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EApoyar activamente a WIE en cualquier actividad necesaria.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERelaci&oacute;n con otras sociedades de la Facultad de Ingenier&iacute;a, UADY.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-01-21T19:00:00.000Z",
+        "end-time": "2025-01-21T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T04:52:11.000Z",
+          "report_updated": "2025-07-17T04:52:11.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E2da Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #directivos #administrativo #STEM",
+        "tags": [
+          "#RAS",
+          "#directivos",
+          "#administrativo",
+          "#STEM"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "F7B366BF-7EFE-4388-A883-AF0C8B9DE70C",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493211",
+        "ieee-attending": 7,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T04:52:11.000Z",
+        "updated-at": "2025-07-17T05:41:26.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493213",
+      "attributes": {
+        "id": 493213,
+        "title": "3era Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAdolfo Pantoja\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003E&nbsp; &nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERealizar presentaci&oacute;n de la rama al director de la Facultad de Ingenier&iacute;a, UADY.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPromover las actividades pr&oacute;ximas del cap&iacute;tulo a estudiantes de la Facultad de Ingenier&iacute;a, UADY.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPlanificar el stand en el evento de la FILEY.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-01-31T19:00:00.000Z",
+        "end-time": "2025-07-31T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T05:35:11.000Z",
+          "report_updated": "2025-07-17T05:35:11.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E3era Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": null,
+        "longitude": null,
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "0E19C89C-1DA8-453A-8915-18BEE9E3A8C3",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493213",
+        "ieee-attending": 5,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:08:12.000Z",
+        "updated-at": "2025-07-17T05:35:11.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493217",
+      "attributes": {
+        "id": 493217,
+        "title": "4ta Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ETabita Arias\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe acord&oacute; que las reuniones del cap&iacute;tulo sean cada 2 o 4 semanas, de acuerdo a la cantidad de trabajo a cada mes correspondiente.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMantener un formato para las publicaciones en redes sociales.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EConstruir carritos control remoto para evento \u003Cem\u003Econectar con la ciencia\u003C/em\u003E.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ECrear flyers para el evento pr&oacute;ximo.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-02-08T19:00:00.000Z",
+        "end-time": "2025-02-08T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T05:40:37.000Z",
+          "report_updated": "2025-07-17T05:40:37.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E4ta Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "607BD132-B300-4A35-86CC-004EB1BA152C",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493217",
+        "ieee-attending": 6,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:36:06.000Z",
+        "updated-at": "2025-07-17T05:41:23.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493219",
+      "attributes": {
+        "id": 493219,
+        "title": "5ta Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ETabita Arias\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EAdolfo Pantoja\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EOrganizar la log&iacute;stica para la visita a SOMEY.\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPublicar en las redes sociales la informaci&oacute;n pertinente a la visita.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERevisar detalles de la visita a SOMEY.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-02-18T19:00:00.000Z",
+        "end-time": "2025-02-18T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T05:46:02.000Z",
+          "report_updated": "2025-07-17T05:46:02.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E5ta Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "399D6E04-A6B0-44B8-A657-CC035680CADC",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493219",
+        "ieee-attending": 7,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:42:53.000Z",
+        "updated-at": "2025-07-17T05:46:02.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "488009",
+      "attributes": {
+        "id": 488009,
+        "title": "Visita Técnica a SOMEY - RAS UADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);\"\u003ELa&nbsp;\u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la Rama Estudiantil IEEE &ndash; UADY, organiz&oacute; una visita a SOMEY, empresa mexicana dedicada a la manufactura de maquinaria y soluciones de automatizaci&oacute;n para la industria de transformaci&oacute;n.&nbsp;\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);\"\u003EDurante el recorrido, los participantes tuvieron la oportunidad de observar procesos industriales de fabricaci&oacute;n avanzada, acercarse a las aplicaciones reales de la automatizaci&oacute;n industrial y los componentes electr&oacute;nicos. As&iacute; como tomar el aprendizaje directo de las charlas con ingenieros en mecatr&oacute;nica especializados en el &aacute;rea.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);\"\u003EEl objetivo de esta visita fue aprender acerca de procesos industriales de ingenier&iacute;a en mecatr&oacute;nica y explorar los principios de automatizaci&oacute;n y rob&oacute;tica de la RAS.\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-02-28T16:00:00.000Z",
+        "end-time": "2025-02-28T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-06-05T19:25:00.000Z",
+          "report_updated": "2025-06-05T19:25:00.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-06-05T19:25:00.000Z",
+            "report_updated": "2025-06-05T19:25:00.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003EVisita T&eacute;cnica a SOMEY\u003C/span\u003E&nbsp;\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: 'Times New Roman',serif;\"\u003E&nbsp;\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/eefbfb87-0149-453d-bcbb-93075d2c0ab7\" alt=\"\" width=\"709\" height=\"558\"\u003E\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #FIUADY #Visita #Actividad",
+        "tags": [
+          "#RAS",
+          "#FIUADY",
+          "#Visita",
+          "#Actividad"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "México 176 85, Conkal, 97345 Conkal, Yuc.",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "97345",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/nZKSdBT3AYHet88a7",
+        "latitude": "21.080293",
+        "longitude": "-89.518621",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "31D76388-8C58-4758-BDA0-55FD2D007C13",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/488009",
+        "ieee-attending": 9,
+        "guests-attending": 13,
+        "created-at": "2025-06-05T18:50:17.000Z",
+        "updated-at": "2025-10-13T19:23:05.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "2"
+          }
+        },
+        "subcategory": {
+          "data": null
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "488113",
+      "attributes": {
+        "id": 488113,
+        "title": "Conectar con la Ciencia UADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMiembros de la&nbsp;\u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) y de la \u003Cstrong\u003ERama Estudiantil IEEE de la UADY\u003C/strong\u003E participaron en el evento&nbsp;\u003Cem style=\"mso-bidi-font-style: normal;\"\u003EConectar con la Ciencia, \u003C/em\u003Een donde se organiz&oacute; un stand con proyectos interactivos, folletos y charlas sobre nuestro cap&iacute;tulo y nuestras actividades. La actividad se realiz&oacute; en el Centro Cultural Universitario de la Universidad, en conjunto con otras agrupaciones estudiantiles de la UADY.&nbsp;\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ECon ayuda de los proyectos de electr&oacute;nica que se llevaron al evento, se capt&oacute; la atenci&oacute;n del p&uacute;blico en general que se encontraba en el edificio, permitiendo generar di&aacute;logos enriquecedores sobre la rob&oacute;tica y automatizaci&oacute;n, as&iacute; como motivar al p&uacute;blico a interesarse por la ingenier&iacute;a.\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-03-01T15:30:00.000Z",
+        "end-time": "2025-03-01T19:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-06-06T17:31:00.000Z",
+          "report_updated": "2025-06-06T17:31:00.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-06-06T17:31:00.000Z",
+            "report_updated": "2025-06-06T17:31:00.000Z"
+          }
+        ],
+        "header": "\u003Ch2 style=\"text-align: center;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003EConectar con la Ciencia: Robotics and Automation UADY\u003C/span\u003E\u003C/h2\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/dc9f12a9-b61b-404e-a6aa-c38adef1234f\" width=\"927\" height=\"695\"\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #STEM #UADY #Mexico #",
+        "tags": [
+          "#STEM",
+          "#UADY",
+          "#Mexico"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cdiv class=\"col-sm-3 ieee_bright_orange_bl2\"\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003C/div\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "C. 57, Parque Santa Lucia",
+        "address2": "",
+        "city": "Merida",
+        "postal-code": "97000",
+        "building": "Colonia Centro",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/d5XzWG2pziDtdb3X8",
+        "latitude": "20.969750339935",
+        "longitude": "-89.622690616609",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "0335C42C-0881-4D41-933E-D46503936881",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/488113",
+        "ieee-attending": 9,
+        "guests-attending": 30,
+        "created-at": "2025-06-06T16:55:56.000Z",
+        "updated-at": "2025-06-12T21:17:44.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "5"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493221",
+      "attributes": {
+        "id": 493221,
+        "title": "6ta Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe considerar&aacute; para siguientes visitas, la posibilidad de brindar alimentos a los visitantes.\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe repas&oacute; acerca de las actividades correspondientes a cada rol dentro de la mesa directiva del cap&iacute;tulo.\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe inform&oacute; a los miembros de la mesa directiva acerca de IEEE Magazine y IEEE Collaboratec.\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELos miembros de la mesa directiva tienen la autorizaci&oacute;n de tomar decisiones en favor del cap&iacute;tulo.\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe considera necesario planificar actividades para el D&iacute;a Internacional de la Mujer los d&iacute;as 26 y 27.\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-03-04T19:00:00.000Z",
+        "end-time": "2025-03-04T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T05:52:44.000Z",
+          "report_updated": "2025-07-17T05:52:44.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E6ta Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "11CF5EE7-2EE3-4219-BF6B-5785C28E13EF",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493221",
+        "ieee-attending": 5,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:47:29.000Z",
+        "updated-at": "2025-07-17T05:52:44.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493223",
+      "attributes": {
+        "id": 493223,
+        "title": "7ma Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPara las pr&oacute;ximas actividades, considerar llenado de formato para cada evento realizado por la RAS, as&iacute; como el tiempo y la posibilidad de realizar las colaboraciones. Se deber&aacute;n firmar los documentos de colaboraci&oacute;n.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EConvivio IEEE para fomentar la confianza en el equipo de trabajo de la rama. Tentativo la primera semana de vacaciones de semana santa.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERealizar una carpeta de documentos utilizados en los eventos, para tener como referencia para actividades futuras.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EParticipaci&oacute;n en evento de la Preparatoria Dos, UADY, organizado por WIE-UADY.\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-03-17T19:00:00.000Z",
+        "end-time": "2025-03-17T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T05:58:42.000Z",
+          "report_updated": "2025-07-17T05:58:42.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E7ma Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "382109E1-2C73-47B1-83B2-B854DE9E928A",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493223",
+        "ieee-attending": 5,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:53:54.000Z",
+        "updated-at": "2025-07-17T05:58:42.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "488887",
+      "attributes": {
+        "id": 488887,
+        "title": "Feria Universitaria 2025 - STEM",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ELa \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la \u003Cstrong\u003ERama Estudiantil IEEE &ndash; UADY\u003C/strong\u003E, particip&oacute; en la \u003Cem\u003EFeria Universitaria 2025\u003C/em\u003E, como parte de la promoci&oacute;n de las carreras STEM en el interior del estado. El evento se organiz&oacute; en la Preparatoria Estatal No. 9 Victor Manuel Cervera Pacheco, ubicada en la localidad de Oxcutzcab, Yucat&aacute;n. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EEl objetivo de esta actividad fue la de inspirar a las vocaciones cient&iacute;ficas y tecnol&oacute;gicas a la comunidad estudiantil de nivel medio superior en el interior del estado. Para ello, se llev&oacute; a cabo la exhibici&oacute;n de proyectos mecatr&oacute;nicos desarrollados por miembros del cap&iacute;tulo, charlas informativas e interactivas sobre la ingenier&iacute;a, as&iacute; como la interacci&oacute;n directa de los alumnos con los prototipos.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ECon ayuda de la instituci&oacute;n y la participaci&oacute;n de los estudiantes, se cre&oacute; un espacio &oacute;ptimo de aprendizaje para destacar la importancia del acercamiento de futuras generaciones a las carreras STEM.\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-03-20T16:30:00.000Z",
+        "end-time": "2025-03-20T19:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-09-08T04:39:42.000Z",
+          "report_updated": "2025-09-08T04:39:42.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-09-08T04:39:42.000Z",
+            "report_updated": "2025-09-08T04:39:42.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 18pt;\"\u003EFeria Universitaria 2025 - Oxkutzkab\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 18pt;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/d1ae20e7-c3dd-4d1b-9dba-9929fb681ef3\" alt=\"\" width=\"531\" height=\"540\"\u003E\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #RAS #IEEE-UADY #prom #stem #STEM",
+        "tags": [
+          "#RAS",
+          "#IEEE-UADY",
+          "#prom",
+          "#stem",
+          "#STEM"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "YUC 31, 97882 San José, Yuc. ",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "97882",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/eMgqJmWpVSz4EHW66",
+        "latitude": "20.26997591687",
+        "longitude": "-89.441112466077",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "26E79848-EE99-4683-88E0-D804D09396FA",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/488887",
+        "ieee-attending": 4,
+        "guests-attending": 60,
+        "created-at": "2025-06-12T17:37:19.000Z",
+        "updated-at": "2025-09-08T04:39:42.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "6"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "14"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "488907",
+      "attributes": {
+        "id": 488907,
+        "title": "Feria Internacional del Libro en Yucatán - FILEY ",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELa \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la \u003Cstrong\u003ERama Estudiantil IEEE &ndash; UADY\u003C/strong\u003E, particip&oacute; en la\u003Cem\u003E Feria Internacional del Libro en Yucat&aacute;n\u003C/em\u003E, como parte del stand de ciencia y tecnolog&iacute;a de la Universidad Aut&oacute;noma de Yucat&aacute;n, realizando una demostraci&oacute;n con los proyectos que miembros del cap&iacute;tulo estudiantil han realizado. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EDurante el evento, interactuamos con los asistentes a la feria, compartiendo informaci&oacute;n del cap&iacute;tulo e invitando a participar al p&uacute;blico a utilizar los proyectos. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl prop&oacute;sito de esta actividad consisti&oacute; en difundir informaci&oacute;n sobre el cap&iacute;tulo RAS-UADY y carreras de la Facultad de Ingenier&iacute;a, UADY; as&iacute; como inspirar a la comunidad a despertar el inter&eacute;s sobre las vocaciones STEM y fortalecer los v&iacute;nculos con la comunidad a trav&eacute;s de la ciencia.\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-03-22T14:00:00.000Z",
+        "end-time": "2025-03-22T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-06-12T21:15:53.000Z",
+          "report_updated": "2025-06-12T21:15:53.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-06-12T21:15:53.000Z",
+            "report_updated": "2025-06-12T21:15:53.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 18pt;\"\u003E\u003Cstrong\u003EFeria Internacional del Libro en Yucat&aacute;n - FILEY\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/460ddcbd-7e79-46c9-8fe2-b9f1206d150c\" alt=\"\" width=\"727\" height=\"664\"\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #stem #FILEY #Yucatan #UADY",
+        "tags": [
+          "#RAS",
+          "#stem",
+          "#FILEY",
+          "#Yucatan",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Calle 60 Nte 299, Zona Industrial, Revolucion, 97118 Mérida, Yuc.",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "97118",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/hu8ieZRAKfdppMJP9",
+        "latitude": "21.034695373066",
+        "longitude": "-89.629746357873",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "769AC8A1-A0BB-4085-A77E-EDBE8E795F9F",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/488907",
+        "ieee-attending": 5,
+        "guests-attending": 100,
+        "created-at": "2025-06-12T21:15:53.000Z",
+        "updated-at": "2025-06-12T21:26:33.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "5"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "490100",
+      "attributes": {
+        "id": 490100,
+        "title": "Concurso de Robótica - RAS UADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EComo parte de los objetivos de la \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n del IEEE\u003C/strong\u003E, la \u003Cstrong\u003Erama estudiantil RAS &ndash; UADY\u003C/strong\u003E, particip&oacute; en colaboraci&oacute;n con algunos miembros del cap&iacute;tulo en el \u003Cem\u003EConcurso de Rob&oacute;tica ROBGAM\u003C/em\u003E, un concurso realizado a nivel estatal realizado por la Universidad An&aacute;huac Mayab, Yucat&aacute;n. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EEsta experiencia fungi&oacute; de parteaguas para motivar internamente al desarrollo de proyectos y la participaci&oacute;n en competencias por miembros del cap&iacute;tulo; adem&aacute;s de evaluar el desempe&ntilde;o del equipo para identificar oportunidades futuras en pr&oacute;ximas competiciones. \u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-03-22T16:00:00.000Z",
+        "end-time": "2025-03-22T19:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-06-23T05:57:08.000Z",
+          "report_updated": "2025-06-23T05:57:08.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-06-23T05:58:49.000Z",
+            "report_updated": "2025-06-23T05:58:49.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003EConcurso de Rob&oacute;tica - ROBGAM\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/a7beff77-deaa-4052-bf99-b97dcf4ae969\" alt=\"\" width=\"900\" height=\"1200\"\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE #UADY #FI ",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#UADY",
+          "#FI"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Km 15.5, Carr. Mérida - Progreso, 97302 Mérida, Yuc. ",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "97302",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/nqC7KBszkQJoF72c6",
+        "latitude": "21.111479176468",
+        "longitude": "-89.612261512164",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "229229E6-651A-44CF-AF1F-E81D69AE98DA",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/490100",
+        "ieee-attending": 3,
+        "guests-attending": 200,
+        "created-at": "2025-06-23T05:57:08.000Z",
+        "updated-at": "2025-06-23T05:58:49.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "2"
+          }
+        },
+        "subcategory": {
+          "data": null
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493224",
+      "attributes": {
+        "id": 493224,
+        "title": "8va Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EEduardo Chan\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EAdolfo Pantoja\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EPuntos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEn esta reuni&oacute;n, contamos con la presencia del representante RAS en M&eacute;xico, Osiris Andrade. Se convers&oacute; acerca de la aprobaci&oacute;n de la propuesta de apertura del cap&iacute;tulo en el portal de la IEEE. Se trataron algunas consideraciones para la siguiente etapa de la RAS.\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpFirst\" style=\"margin-bottom: 0cm; mso-add-space: auto; text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E1. \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EEsperar por la carta formal de aprobaci&oacute;n del capitulo\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpMiddle\" style=\"margin-bottom: 0cm; mso-add-space: auto; text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E2. \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EIdentificar los c&oacute;digos de la rama\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpMiddle\" style=\"margin-bottom: 0cm; mso-add-space: auto; text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E3.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EConsiderar la realizaci&oacute;n de un plan de trabajo anual con los eventos tentativos a realizar para tener una idea de la organizaci&oacute;n.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpMiddle\" style=\"margin-bottom: 0cm; mso-add-space: auto; text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E4. \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003ESe trataron puntos importantes para la solicitud de apoyo para el cap&iacute;tulo, as&iacute; como la solicitud inicial de apertura.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpLast\" style=\"text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E5.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E &nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003ESe trataron puntos sobre los roles de la mesa de trabajo de la RAS-UADY. Se recibieron consejos para iniciar con actividades para el cap&iacute;tulo reci&eacute;n aperturado oficialmente y con reconocimiento de la IEEE.\u003C/span\u003E\u003C/p\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E&nbsp;\u003C/p\u003E",
+        "start-time": "2025-04-25T00:00:00.000Z",
+        "end-time": "2025-04-25T02:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T06:06:48.000Z",
+          "report_updated": "2025-07-17T06:06:48.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E8va Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "virtual",
+        "virtual-info": "\u003Cp\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ELos miembros que asistieron a la reuni&oacute;n virtual fueron los siguientes:&nbsp;\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EAsistencia\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul style=\"margin-top: 0cm;\" type=\"disc\"\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ESebastian Patron\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EAdolfo Pantoja\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EHiram Fernandez\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EAsistencia especial\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul style=\"margin-top: 0cm;\" type=\"disc\"\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify; font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EOsiris Andrade\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "address1": null,
+        "address2": null,
+        "city": null,
+        "postal-code": null,
+        "building": null,
+        "room-number": null,
+        "map-url": null,
+        "latitude": null,
+        "longitude": null,
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "F54D0F03-C5B9-41C5-8892-7380E31EF1F2",
+        "publish": true,
+        "virtual": true,
+        "link": "https://events.vtools.ieee.org/m/493224",
+        "ieee-attending": 8,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T05:59:26.000Z",
+        "updated-at": "2025-09-08T04:35:37.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": null
+        },
+        "country": {
+          "data": null
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493227",
+      "attributes": {
+        "id": 493227,
+        "title": "9na Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ETabita Arias\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ERepaso de las actividades para el mes de mayo, 2025.\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EParticipaci&oacute;n en evento del D&iacute;a del Estudiante, FIUADY.\u003Cspan style=\"mso-spacerun: yes;\"\u003E&nbsp; \u003C/span\u003ERealizado el 6 de mayo.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EVisita t&eacute;cnica a empresa Uchiyama Manufacturing. 7 de mayo de 2025.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003ED&iacute;a del Maestro, FIUADY. 14 de mayo de 2025. Participaci&oacute;n en la organizaci&oacute;n del evento y el d&iacute;a del evento.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-05-03T07:00:00.000Z",
+        "end-time": "2025-05-03T09:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T06:21:53.000Z",
+          "report_updated": "2025-07-17T06:21:53.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E9na Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "97173",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "CC5F237A-D94A-4B4D-B4DA-69FC280B8E34",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493227",
+        "ieee-attending": 5,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T06:16:59.000Z",
+        "updated-at": "2025-09-08T04:33:56.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "494055",
+      "attributes": {
+        "id": 494055,
+        "title": "Día del Estudiante - FIUADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EComo parte de la celebraci&oacute;n del&nbsp;\u003Cem\u003ED&iacute;a del Estudiante\u003C/em\u003E en la Facultad de Ingenier&iacute;a, UADY. La \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la Rama Estudiantil IEEE &ndash; UADY, particip&oacute; con un stand interactivo donde los asistentes pudieron experimentar con prototipos rob&oacute;ticos y participar en algunas din&aacute;micas para la comunidad estudiantil.&nbsp;\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl objetivo de esta actividad fue fomentar la integraci&oacute;n de la comunidad estudiantil a trav&eacute;s de espacios recreativos combinados con aprendizaje, reforzando el inter&eacute;s en las ciencias y tecnolog&iacute;a.&nbsp;\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-05-06T17:00:00.000Z",
+        "end-time": "2025-05-06T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-24T04:27:53.000Z",
+          "report_updated": "2025-07-24T04:27:53.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-07-24T04:27:53.000Z",
+            "report_updated": "2025-07-24T04:27:53.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003ED&iacute;a del Estudiante - FIUADY\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/1317407d-eabe-4fa9-a74e-929b2551619b\" alt=\"\" width=\"600\" height=\"755\"\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE #UADY #FIUADY #DíaDelEstudiante #Social",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#UADY",
+          "#FIUADY",
+          "#DíaDelEstudiante",
+          "#Social"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Facultad de ingeniería, UADY",
+        "address2": "Industrias No Contaminantes S/N, Sin Nombre de Col 27, 97302 Mérida, Yuc",
+        "city": "Mérida",
+        "postal-code": "97302",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/NoGAAhfKtPLrbn5J9",
+        "latitude": "21.048838635997",
+        "longitude": "-89.640337637532",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "EE16A839-DC84-42CB-9E76-889DC46A0EF3",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/494055",
+        "ieee-attending": 4,
+        "guests-attending": 100,
+        "created-at": "2025-07-24T04:15:11.000Z",
+        "updated-at": "2025-07-24T04:30:45.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "5"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "494057",
+      "attributes": {
+        "id": 494057,
+        "title": "Visita técnica a Uchiyama Manufacturing de Yucatán",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003ELa&nbsp;\u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la Rama Estudiantil IEEE &ndash; UADY, organiz&oacute; una visita t&eacute;cnica a \u003Cem\u003EUchiyama Manufacturing de Yucat&aacute;n\u003C/em\u003E, empresa japonesa l&iacute;der en la fabricaci&oacute;n de piezas para la industria automotriz.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EEn la visita, los estudiantes de Ingenier&iacute;a en Mecatr&oacute;nica de la Facultad de Ingenier&iacute;a, UADY, tuvieron la oportunidad de conocer las instalaciones de la planta, los procesos de manufactura y la maquinaria utilizada en la producci&oacute;n de piezas automotrices, adem&aacute;s de recibir explicaciones detalladas por parte de expertos en cada &aacute;rea. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-size: 14pt; font-family: verdana, geneva, sans-serif;\"\u003EEl objetivo de esta visita fue conocer sobre los procesos de manufactura y automatizaci&oacute;n industrial que se encuentran dentro de una planta productora real, pudiendo explorar y reforzar los conocimientos en materia de automatizaci&oacute;n y rob&oacute;tica. \u003Cspan style=\"mso-spacerun: yes;\"\u003E&nbsp;\u003C/span\u003E\u003Cspan style=\"mso-spacerun: yes;\"\u003E&nbsp;\u003C/span\u003E\u003Cspan style=\"mso-spacerun: yes;\"\u003E&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-05-08T02:30:00.000Z",
+        "end-time": "2025-05-08T05:30:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-24T04:44:25.000Z",
+          "report_updated": "2025-07-24T04:44:25.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-07-24T04:44:25.000Z",
+            "report_updated": "2025-07-24T04:44:25.000Z"
+          }
+        ],
+        "header": "\u003Ch2 style=\"text-align: center;\" align=\"center\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong style=\"mso-bidi-font-weight: normal;\"\u003E\u003Cspan style=\"line-height: 107%; color: windowtext;\"\u003EVisita t&eacute;cnica a Uchiyama Manufacturing de Yucat&aacute;n\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/h2\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/05e6349a-0fb2-4b2a-ad65-11306d5608de\" alt=\"\" width=\"700\" height=\"593\"\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE #UADY #FIUADY #VISITA #UchiyamaManufacturing",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#UADY",
+          "#FIUADY",
+          "#VISITA",
+          "#UchiyamaManufacturing"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Uchiyama Manufacturing de Yucatán",
+        "address2": "Mérida - Tetiz, 97358 Mérida, Yuc. ",
+        "city": "Mérida",
+        "postal-code": "97358",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/ZcuzN9Rpkofoj8298",
+        "latitude": "20.991675175036",
+        "longitude": "-89.794242277552",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "806D1394-405C-4C22-B6DE-39D03F45C5EF",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/494057",
+        "ieee-attending": 8,
+        "guests-attending": 20,
+        "created-at": "2025-07-24T04:32:03.000Z",
+        "updated-at": "2025-07-24T04:44:25.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "2"
+          }
+        },
+        "subcategory": {
+          "data": null
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493231",
+      "attributes": {
+        "id": 493231,
+        "title": "10ma Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003EHiram Fern&aacute;ndez&nbsp;&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ETabita Arias\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAcuerdos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpFirst\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E1.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C!--[endif]--\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003ERealizar solicitud de presupuesto de apertura, considerando la determinaci&oacute;n de gastos para material promocional, adquisici&oacute;n de materiales did&aacute;cticos y gastos de log&iacute;stica.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpMiddle\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E2.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C!--[endif]--\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EProyecto de robot de laberinto para pr&oacute;ximas actividades.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpMiddle\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E3.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C!--[endif]--\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EOrganizaci&oacute;n general de la toma de protesta de la primera mesa directiva.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoListParagraphCxSpLast\" style=\"text-indent: -18.0pt; mso-list: l0 level1 lfo1;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E4.\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C!--[endif]--\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003ERealizar calendario de actividades del cap&iacute;tulo para el a&ntilde;o 2025-2026.\u003C/span\u003E\u003C/p\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EActividades:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoListParagraph\" style=\"text-indent: -18pt; line-height: 115%; text-align: left;\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E&nbsp; &nbsp; Organizar detalladamente aspectos fundamentales de la toma de protestas, como los espacios y las invitaciones.&nbsp;\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-06-20T07:00:00.000Z",
+        "end-time": "2025-06-20T08:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-17T06:50:01.000Z",
+          "report_updated": "2025-07-17T06:50:01.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E10ma Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "9D860ACF-A174-42E9-9F3D-1C5C3F495C3A",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493231",
+        "ieee-attending": 6,
+        "guests-attending": 0,
+        "created-at": "2025-07-17T06:45:57.000Z",
+        "updated-at": "2025-07-17T06:50:01.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "493429",
+      "attributes": {
+        "id": 493429,
+        "title": "11va Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cstrong\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003E&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\" style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cspan style=\"mso-list: Ignore;\"\u003E\u003Cspan style=\"font-style: normal; font-variant: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: normal; font-stretch: normal; line-height: normal;\"\u003ETabita Arias\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPuntos:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELa toma de protesta se tiene planeada para el 5 de septiembre de 2025 a las 12:30 PM en la Facultad de Ingenier&iacute;a, UADY.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAlgunos aspectos importantes que se trataron en la reuni&oacute;n fueron:\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"padding-left: 80px; line-height: 1.1;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003Ea. Vista principal para la toma de protesta:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col style=\"list-style-type: lower-roman;\"\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EBotellas de agua\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELogo RAS con impresi&oacute;n 3D\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPantalla con recopilatorio de actividades\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1; padding-left: 80px;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003Eb. Comida:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col style=\"list-style-type: lower-roman;\"\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEsperar presupuestos para los bocadillos\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1; padding-left: 80px;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003Ec. Recuerdos:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col style=\"list-style-type: lower-roman;\"\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EConjunto conmemorativo para los directivos de cap&iacute;tulos: llaveros y separador\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EDirectivos acad&eacute;micos: llaveros y separador y lapicero\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EInvitados del pres&iacute;dium: agendas con llaveros y separador. Poner botellas de agua\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1; padding-left: 80px;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003Ed. Cronolog&iacute;a\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col style=\"list-style-type: lower-roman;\"\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EBienvenida y presentaci&oacute;n del pres&iacute;dium\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAcerca de la RAS, su misi&oacute;n, visi&oacute;n, valores y objetivos\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EDiscursos de representantes importantes de la UADY y la RAS\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EToma de protesta\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EDespedida\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1; padding-left: 80px;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003Ee. Invitaciones:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"list-style-type: none;\"\u003E\r\n\u003Col style=\"list-style-type: lower-roman;\"\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EConsiderar cap&iacute;tulos de la universidad, sociedades y consejos del Campus de Ciencias Exactas de la UADY; as&iacute; como otros cap&iacute;tulos con los que se ha colaborado\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EPendientes:&nbsp;\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Col\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EConseguir una segunda lona con el logo de la RAS.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAdquirir una bandera con el logo de la RAS.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ERevisar con tiempo la petici&oacute;n y adquisici&oacute;n de uniformes formales para la mesa directiva.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESolicitar apoyo para el staff de la toma de protesta.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ol\u003E\r\n\u003Cp style=\"line-height: 1.1;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAcuerdos:\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EDefinir fecha y hora para una pr&oacute;xima reuni&oacute;n de la mesa directiva RAS.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"line-height: 1.1;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ESe acord&oacute; que Tabita y Eduardo trabajar&aacute;n en el PPT de una pr&oacute;xima actividad de bienvenida con estudiantes de nuevo ingreso de la Facultad de Ingenier&iacute;a, UADY.\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-07-18T23:00:00.000Z",
+        "end-time": "2025-07-19T01:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-07-19T08:38:58.000Z",
+          "report_updated": "2025-07-19T08:38:58.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E11va Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E",
+        "footer": "\u003Cp\u003E\u003Cspan style=\"white-space: pre;\"\u003E \u003C/span\u003E\u003C/p\u003E",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "03EB0DF0-2308-4501-ADAA-E5CF79FF7B9E",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/493429",
+        "ieee-attending": 5,
+        "guests-attending": 0,
+        "created-at": "2025-07-19T08:10:42.000Z",
+        "updated-at": "2025-07-19T08:38:58.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "496942",
+      "attributes": {
+        "id": 496942,
+        "title": "Presentación Capítulos Estudiantiles - FIUADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEn conjunto con la \u003Cstrong\u003ERama Estudiantil IEEE&ndash;UADY\u003C/strong\u003E y \u003Cstrong\u003EWomen in Engineering&ndash;UADY\u003C/strong\u003E, la \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la UADY particip&oacute; en una \u003Cem\u003Epresentaci&oacute;n de cap&iacute;tulos estudiantiles\u003C/em\u003E realizada en la Facultad de Ingenier&iacute;a de la UADY.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELa actividad estuvo dirigida a estudiantes de nuevo ingreso de la carrera de Ingenier&iacute;a en Mecatr&oacute;nica. Durante la presentaci&oacute;n, se les dio una calurosa bienvenida, se present&oacute; la rama principal IEEE&ndash;UADY y sus cap&iacute;tulos asociados, y se compartieron las actividades realizadas por cada uno. Asimismo, se invit&oacute; a los asistentes a integrarse a los equipos de trabajo y se llevaron a cabo din&aacute;micas para fomentar la interacci&oacute;n y el acercamiento entre los participantes.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl objetivo de la actividad fue dar a conocer a los estudiantes de nuevo ingreso la existencia de los cap&iacute;tulos estudiantiles de la IEEE presentes en el campus, as&iacute; como promover el sentido de identidad y pertenencia hacia las carreras STEM.\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-08-13T18:00:00.000Z",
+        "end-time": "2025-08-13T19:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-09-08T04:27:22.000Z",
+          "report_updated": "2025-09-08T04:27:22.000Z"
+        },
+        "cohosts": [
+          {
+            "spoid": "STB03105",
+            "name": "Universidad Autonoma de Yucatan",
+            "class_code": "SUBG",
+            "class_description": "Geographic SPO",
+            "type_code": "STBR",
+            "type_description": "Student Branch",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": null,
+            "report_submitted": "2025-09-08T04:27:22.000Z",
+            "report_updated": "2025-09-08T04:27:22.000Z"
+          },
+          {
+            "spoid": "SBA03105",
+            "name": "Universidad Autonoma de Yucatan,WIE",
+            "class_code": "SUBO",
+            "class_description": "Organizational SPO",
+            "type_code": "AFFN",
+            "type_description": "Affinity",
+            "section_spoids": "R90307",
+            "region_spoids": "R9",
+            "society_spoids": "WIE050",
+            "report_submitted": "2025-09-08T04:27:22.000Z",
+            "report_updated": "2025-09-08T04:27:22.000Z"
+          }
+        ],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003EPresentaci&oacute;n Cap&iacute;tulos Estudiantiles - FIUADY\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/e97c5908-78d9-4238-9c7c-e7b790471c2e\" alt=\"\" width=\"836\" height=\"627\"\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE #WIE #UADY #FIUADY #CapítuloEstudiantil #NuevoIngreso",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#WIE",
+          "#UADY",
+          "#FIUADY",
+          "#CapítuloEstudiantil",
+          "#NuevoIngreso"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Facultad de ingeniería, UADY",
+        "address2": "Industrias No Contaminantes S/N, Sin Nombre de Col 27, 97302 Mérida, Yuc",
+        "city": "Mérida",
+        "postal-code": "97302",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/NoGAAhfKtPLrbn5J9",
+        "latitude": "21.048838635997",
+        "longitude": "-89.640337637532",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "6A9C1323-1819-4B28-AEF5-C0490EEDECAF",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/496942",
+        "ieee-attending": 20,
+        "guests-attending": 80,
+        "created-at": "2025-08-15T05:42:13.000Z",
+        "updated-at": "2025-09-08T04:27:22.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "5"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "496944",
+      "attributes": {
+        "id": 496944,
+        "title": "Feria de Inducción - FIUADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003ELa \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la Rama Estudiantil IEEE&ndash;UADY particip&oacute; en la \u003Cem\u003EFeria de Inducci&oacute;n\u003C/em\u003E realizada en las instalaciones de la Facultad de Ingenier&iacute;a de la UADY.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl evento cont&oacute; con la presencia de stands de la \u003Cstrong\u003ERama Estudiantil IEEE&ndash;UADY\u003C/strong\u003E, su cap&iacute;tulo \u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n (RAS)\u003C/strong\u003E, el grupo de afinidad \u003Cstrong\u003EMujeres en la Ingenier&iacute;a (WIE) \u003C/strong\u003Ey otros cap&iacute;tulos estudiantiles de la facultad.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEn el stand del cap&iacute;tulo se distribuyeron folletos con informaci&oacute;n de sus redes sociales, se presentaron proyectos de ingenier&iacute;a desarrollados por sus miembros y se realizaron actividades de integraci&oacute;n con los asistentes. Adem&aacute;s, se ofrecieron charlas para invitar a los estudiantes de nuevo ingreso a incorporarse al grupo de trabajo.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl objetivo de la actividad fue integrar y orientar a los nuevos integrantes de la Facultad de Ingenier&iacute;a, as&iacute; como fomentar el sentido de identidad y pertenencia hacia las carreras STEM.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E&nbsp;\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-08-14T19:00:00.000Z",
+        "end-time": "2025-08-14T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-08-15T06:36:39.000Z",
+          "report_updated": "2025-08-15T06:36:39.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003EFeria de Inducci&oacute;n - FIUADY\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/d375b255-0498-4a05-8aed-c8402329ba50\" alt=\"\" width=\"800\" height=\"830\"\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE  #UADY #FIUADY #FeriaInduccion #NuevoIngreso",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#UADY",
+          "#FIUADY",
+          "#FeriaInduccion",
+          "#NuevoIngreso"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Facultad de ingeniería, UADY",
+        "address2": "Industrias No Contaminantes S/N, Sin Nombre de Col 27, 97302 Mérida, Yuc",
+        "city": "Mérida",
+        "postal-code": "97302",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/NoGAAhfKtPLrbn5J9",
+        "latitude": "21.048838635997",
+        "longitude": "-89.640337637532",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "4AE6888F-C91F-4330-BECA-009AF0747C7E",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/496944",
+        "ieee-attending": 15,
+        "guests-attending": 300,
+        "created-at": "2025-08-15T06:19:38.000Z",
+        "updated-at": "2025-08-15T06:39:34.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "3"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "5"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "497554",
+      "attributes": {
+        "id": 497554,
+        "title": "12va Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp data-start=\"124\" data-end=\"141\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"124\" data-end=\"139\"\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"144\" data-end=\"158\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"161\" data-end=\"177\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"180\" data-end=\"198\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"201\" data-end=\"215\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"218\" data-end=\"232\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"235\" data-end=\"252\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EHiram Fern&aacute;ndez\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"254\" data-end=\"267\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"254\" data-end=\"265\"\u003EPuntos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp data-start=\"269\" data-end=\"314\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"269\" data-end=\"312\"\u003ERetroalimentaci&oacute;n de eventos anteriores\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"317\" data-end=\"411\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EAgradecimientos por el genial desempe&ntilde;o, y expresar apertura a sugerencias/retroalimentaci&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"414\" data-end=\"516\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPreguntar por sus experiencias en los eventos, y que empiecen a pensar en sus pendientes RAS (C/S/A)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"519\" data-end=\"579\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EComentar acerca de relaci&oacute;n con Osiris y con IEEE (vTools)\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"581\" data-end=\"603\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"581\" data-end=\"601\"\u003EToma de Protesta\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"606\" data-end=\"683\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EConfirmaci&oacute;n de hora, fecha y lugar: 5 de septiembre, 12:30 hrs, Aula Magna\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"686\" data-end=\"753\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EEnv&iacute;o de invitaciones a las agrupaciones (crear listado completo)\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"755\" data-end=\"797\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"755\" data-end=\"795\"\u003EMaterial promocional para el evento:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"800\" data-end=\"840\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EStickers y/o separadores RAS (general)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"843\" data-end=\"880\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ELlaveros RAS (invitados especiales)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"883\" data-end=\"908\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EAgenda RAS (pres&iacute;dium)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"911\" data-end=\"950\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EBanner &amp; ara&ntilde;a extra de tama&ntilde;o grande\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"953\" data-end=\"966\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EBandera RAS\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"968\" data-end=\"993\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"968\" data-end=\"991\"\u003EInsumos del evento:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"996\" data-end=\"1081\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ECoffee break: Frutas picadas, vasitos, aguas peque&ntilde;as, chamoy, miguelito, rebanadas\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1084\" data-end=\"1111\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ERecuerdos para asistentes\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"1113\" data-end=\"1138\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"1113\" data-end=\"1136\"\u003EOtros preparativos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1141\" data-end=\"1284\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ERealizar un documento oficial donde se detalle lo que se comprar&aacute; de manera definitiva, para empezar a gestionarlo (realizarlo en el momento)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1287\" data-end=\"1407\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ERealizar un documento formal para la disposici&oacute;n de las intervenciones del pres&iacute;dium (definir a una persona encargada)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1410\" data-end=\"1502\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPresentaci&oacute;n PPT para el d&iacute;a del evento (pedir a Tabita y Lalo que lo empiecen a trabajar)\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1505\" data-end=\"1572\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPreguntar por dudas acerca de las camisas formales para el evento\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"1574\" data-end=\"1621\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"1574\" data-end=\"1619\"\u003EGesti&oacute;n de la primera visita t&eacute;cnica: ABB\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1624\" data-end=\"1677\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EDefinir el plan de acci&oacute;n ante las visitas t&eacute;cnicas\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1680\" data-end=\"1780\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ECompartir el correo con los dem&aacute;s integrantes para que sea usado a futuro como plantilla de correo\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1783\" data-end=\"1828\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EDefinir el m&eacute;todo de gesti&oacute;n del transporte\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"1830\" data-end=\"1874\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"1830\" data-end=\"1872\"\u003ERevisi&oacute;n del plan de trabajo (Mariana)\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul data-start=\"1875\" data-end=\"1945\"\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1875\" data-end=\"1945\"\u003E\r\n\u003Cp data-start=\"1877\" data-end=\"1945\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EExponer cu&aacute;les son las actividades planeadas y c&oacute;mo est&aacute; dispuesto\u003C/span\u003E\u003C/p\u003E\r\n\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"1947\" data-end=\"1980\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"1947\" data-end=\"1978\"\u003EColaboraci&oacute;n con el Lab 4.0\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"1983\" data-end=\"2035\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EDefinir los t&eacute;rminos y condiciones de colaboraci&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2038\" data-end=\"2095\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ETerminar el documento de lineamientos para formalizarlo\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"2097\" data-end=\"2135\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"2097\" data-end=\"2133\"\u003ERetroalimentaci&oacute;n de lo abordado\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2138\" data-end=\"2190\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EComentarios, sugerencias y aportes de los miembros\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2193\" data-end=\"2272\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E&iquest;Qu&eacute; trabajo tendr&aacute; asignado cada miembro, y cu&aacute;ndo se entregar&aacute;n resultados?\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"2274\" data-end=\"2291\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"2274\" data-end=\"2289\"\u003EPendientes:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2294\" data-end=\"2318\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EHost de la p&aacute;gina IEEE\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2321\" data-end=\"2381\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EConfirmar con secretar&iacute;a el horario de la toma de protesta\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2384\" data-end=\"2426\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ELog&iacute;stica del evento, crear un documento\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"2429\" data-end=\"2472\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPresentaci&oacute;n PPT para la toma de protesta\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E",
+        "start-time": "2025-08-20T17:30:00.000Z",
+        "end-time": "2025-08-20T19:30:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-09-08T04:16:35.000Z",
+          "report_updated": "2025-09-08T04:16:35.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E12va Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp data-start=\"2091\" data-end=\"2277\"\u003E&nbsp;\u003C/p\u003E",
+        "footer": "\u003Cp\u003E\u003Cspan style=\"white-space: pre;\"\u003E \u003C/span\u003E\u003C/p\u003E",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "B0D0A1D9-36E2-4170-9EFF-A99A776E89C0",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/497554",
+        "ieee-attending": 6,
+        "guests-attending": 0,
+        "created-at": "2025-08-20T18:09:55.000Z",
+        "updated-at": "2025-09-08T04:16:35.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "505348",
+      "attributes": {
+        "id": 505348,
+        "title": "Toma de Protesta RAS IEEE - UADY",
+        "description": "\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EA manera de formalizaci&oacute;n frente a las autoridades de la Universidad Aut&oacute;noma de Yucat&aacute;n, la&nbsp;\u003Cstrong\u003ESociedad de Rob&oacute;tica y Automatizaci&oacute;n\u003C/strong\u003E (RAS) de la Rama Estudiantil IEEE&ndash;UADY llev&oacute; a cabo la \u003Cem\u003EToma de Protesta de la Primera Mesa Directiva\u003C/em\u003E correspondiente al periodo de 2025-2026. \u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl evento se realiz&oacute; en el Aula Magna de la Facultad de Ingenier&iacute;a de la UADY y cont&oacute; con la distinguida asistencia de autoridades universitarias, el director de la Facultad de Ingenier&iacute;a, profesores y estudiantes de la universidad.&nbsp;\u003C/span\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EAsimismo, se tuvo la valiosa presencia de representantes de ABB M&eacute;xico y del secretario de la subsecci&oacute;n IEEE M&eacute;xico.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEl objetivo de esta toma de protesta fue formalizar la integraci&oacute;n de la primera mesa directiva del cap&iacute;tulo estudiantil RAS IEEE &ndash; UADY, con el compromiso de impulsar actividades de divulgaci&oacute;n cient&iacute;fica en &aacute;reas de rob&oacute;tica y automatizaci&oacute;n. Del mismo modo, se busc&oacute; fortalecer los v&iacute;nculos de colaboraci&oacute;n entre la comunidad estudiantil, las autoridades educativas, empresas del medio y el cap&iacute;tulo estudiantil.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003EEste hecho representa la consolidaci&oacute;n y el compromiso del cap&iacute;tulo estudiantil como un espacio de desarrollo profesional y acad&eacute;mico para la comunidad estudiantil de la Facultad de Ingenier&iacute;a, y como medio de divulgaci&oacute;n cient&iacute;fica hacia la sociedad.\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E&nbsp;\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E\u003Cimg style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://events.vtools.ieee.org/vtools_ui/media/display/c19eb6ea-4c5a-4683-8cac-441e58ffc4b2\" alt=\"\" width=\"849\" height=\"466\"\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm; text-align: justify;\"\u003E&nbsp;\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\" style=\"margin-bottom: 0cm;\"\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif; font-size: 14pt;\"\u003E&nbsp;\u003C/span\u003E\u003C/p\u003E",
+        "start-time": "2025-09-05T18:30:00.000Z",
+        "end-time": "2025-09-05T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-10-06T02:18:49.000Z",
+          "report_updated": "2025-10-06T02:18:49.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt; font-family: verdana, geneva, sans-serif;\"\u003E\u003Cstrong\u003EToma de Protesta RAS IEEE - UADY\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp style=\"text-align: center;\"\u003E\u003Cimg src=\"https://events.vtools.ieee.org/vtools_ui/media/display/d88ee6e9-fad9-4e7a-8684-b1829414acd1\" alt=\"\" width=\"863\" height=\"549\"\u003E\u003C/p\u003E",
+        "footer": "",
+        "keywords": "#RAS #IEEE  #UADY #FIUADY #TomaDeProtesta #PrimeraMesaDirectiva",
+        "tags": [
+          "#RAS",
+          "#IEEE",
+          "#UADY",
+          "#FIUADY",
+          "#TomaDeProtesta",
+          "#PrimeraMesaDirectiva"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E&nbsp;\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "Facultad de ingeniería, UADY",
+        "address2": "Industrias No Contaminantes S/N, Sin Nombre de Col 27, 97302 Mérida, Yuc",
+        "city": "Mérida",
+        "postal-code": "97302",
+        "building": "",
+        "room-number": "",
+        "map-url": "https://maps.app.goo.gl/NoGAAhfKtPLrbn5J9",
+        "latitude": "21.048838635997",
+        "longitude": "-89.640337637532",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "646518A8-B1F4-4ACB-9D0C-5B103469B605",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/505348",
+        "ieee-attending": 20,
+        "guests-attending": 80,
+        "created-at": "2025-10-06T02:07:58.000Z",
+        "updated-at": "2025-10-06T02:20:14.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "events",
+      "id": "505232",
+      "attributes": {
+        "id": 505232,
+        "title": "13va Junta de Comité RAS: Universidad Autónoma de Yucatán - SBC03105",
+        "description": "\u003Cp data-start=\"124\" data-end=\"141\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"124\" data-end=\"139\"\u003EAsistencia:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"144\" data-end=\"158\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EPedro Flores\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"161\" data-end=\"177\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EMariana Garc&iacute;a\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"180\" data-end=\"198\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ESebasti&aacute;n Patr&oacute;n\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"201\" data-end=\"215\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003ETabita Arias\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"218\" data-end=\"232\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EEduardo Chan\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli style=\"font-size: 14pt;\" data-start=\"235\" data-end=\"252\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003EHiram Fern&aacute;ndez\u003C/span\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"254\" data-end=\"267\"\u003E\u003Cspan style=\"font-size: 14pt;\"\u003E\u003Cstrong data-start=\"254\" data-end=\"265\"\u003EPuntos:\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cstrong\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EReuni&oacute;n Rector UADY\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli\u003E\u003C!-- [if !supportLists]--\u003ESe habl&oacute; acerca de la reuni&oacute;n que tuvo la Rama Estudiantil IEEE con el rector de la Universidad Aut&oacute;noma de Yucat&aacute;n, en la que se presentaron las actividades realizadas y se presentaron a los equipos de trabajo.\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cstrong\u003E\u003Cspan style=\"mso-bidi-font-family: 'Times New Roman';\"\u003EVisitas acad&eacute;micas\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\"\u003E\u003C!-- [if !supportLists]--\u003E\u003Cstrong\u003EVisita a ABB\u003C/strong\u003E\r\n\u003Cul\u003E\r\n\u003Cli class=\"MsoNormal\"\u003E\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp; &nbsp;\u003C/span\u003E\u003Cspan style=\"text-indent: -18pt;\"\u003ESe realizar&aacute; el 9 de octubre de 2025 de 1 a 3 pm.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli class=\"MsoNormal\"\u003ECupo aproximado de 15 personas.\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003C/li\u003E\r\n\u003Cli\u003E\u003Cstrong\u003EAirtemp\u003C/strong\u003E\r\n\u003Cul\u003E\r\n\u003Cli\u003ESe realizar&aacute; el viernes 10 de octubre a las 10 am.\u003C/li\u003E\r\n\u003Cli\u003ECupo aproximado de 4 personas\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp class=\"MsoNormal\"\u003E\u003Cstrong\u003EConcurso de rob&oacute;tica FIUADY\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cul\u003E\r\n\u003Cli\u003E\u003C!-- [if !supportLists]--\u003ESe realizar&aacute; el 21 de noviembre de 9 am a 3 pm.\u003C/li\u003E\r\n\u003Cli\u003E\u003C!-- [if !supportLists]--\u003ESe platicaron temas relacionados a la organizaci&oacute;n del evento.\r\n\u003Cul\u003E\r\n\u003Cli\u003ESede tentativa: Auditorio Oscar Gonz&aacute;lez, FIUADY.\u003C/li\u003E\r\n\u003Cli\u003E\u003Cspan style=\"text-indent: -18pt;\"\u003EConseguir una pista de 60 x 60 cm.\u003C/span\u003E\u003Cspan style=\"font: 7.0pt 'Times New Roman';\"\u003E&nbsp; \u003C/span\u003E\u003C/li\u003E\r\n\u003Cli\u003E\u003Cspan style=\"text-indent: -18pt;\"\u003EDeterminar jurados: profesores del CCEI.\u003C/span\u003E\u003C/li\u003E\r\n\u003Cli\u003EEntrevista de desarrollo para la ponderaci&oacute;n.\u003C/li\u003E\r\n\u003Cli\u003EConseguir staff para el evento\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\u003Cp data-start=\"1113\" data-end=\"1138\"\u003E&nbsp;\u003C/p\u003E",
+        "start-time": "2025-10-03T18:30:00.000Z",
+        "end-time": "2025-10-03T20:00:00.000Z",
+        "time-zone": {
+          "name": "America/Mexico_City",
+          "utc-offset": -6
+        },
+        "primary-host": {
+          "spoid": "SBC03105",
+          "name": "Universidad Autonoma de Yucatan,RA24",
+          "class_code": "SUBT",
+          "class_description": "Technical SPO",
+          "type_code": "BRCH",
+          "type_description": "Student Branch Chapter",
+          "section_spoids": "R90307",
+          "region_spoids": "R9",
+          "society_spoids": "RA024",
+          "report_submitted": "2025-10-05T07:25:46.000Z",
+          "report_updated": "2025-10-05T07:25:46.000Z"
+        },
+        "cohosts": [],
+        "header": "\u003Cp style=\"text-align: center;\"\u003E\u003Cspan style=\"font-size: 18pt;\"\u003E\u003Cstrong\u003E\u003Cspan style=\"font-family: verdana, geneva, sans-serif;\"\u003E13va Junta de Comit&eacute; RAS: Universidad Aut&oacute;noma de Yucat&aacute;n - SBC03105\u003C/span\u003E\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\r\n\u003Cp data-start=\"2091\" data-end=\"2277\"\u003E&nbsp;\u003C/p\u003E",
+        "footer": "\u003Cp\u003E\u003Cspan style=\"white-space: pre;\"\u003E \u003C/span\u003E\u003C/p\u003E",
+        "keywords": " #administrativo #directivos #RAS #STEM #UADY",
+        "tags": [
+          "#administrativo",
+          "#directivos",
+          "#RAS",
+          "#STEM",
+          "#UADY"
+        ],
+        "agenda": null,
+        "contact-email": "ras.fiuady@gmail.com",
+        "contact-display": "\u003Cp\u003E\u003Cstrong\u003EInstagram\u003C/strong\u003E\u003Cbr\u003EIEEE RAS UADY:&nbsp;\u003Ca href=\"https://events.vtools.ieee.org/tego_/event/edit/Instagram.com/ras.uady\"\u003E\u003Cem\u003EInstagram.com/ras.uady\u003C/em\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cstrong\u003EFacebook\u003C/strong\u003E\u003Cbr\u003ERAS IEEE UADY:&nbsp;\u003Ca href=\"https://www.facebook.com/share/1H5mx69scu/\"\u003E\u003Cem\u003Ehttps://www.facebook.com/share/1H5mx69scu/\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E",
+        "cosponsor-name": "",
+        "location-type": "physical",
+        "virtual-info": null,
+        "address1": "",
+        "address2": "",
+        "city": "Mérida",
+        "postal-code": "",
+        "building": "",
+        "room-number": "",
+        "map-url": "",
+        "latitude": "20.9673702",
+        "longitude": "-89.5925857",
+        "image": null,
+        "image-mime-type": null,
+        "registration-start-time": null,
+        "registration-end-time": null,
+        "registration-url": null,
+        "enable-cohost-url": false,
+        "cohost-url": null,
+        "survey-url": "",
+        "cost": false,
+        "max-registrations": null,
+        "cancelled": false,
+        "uid": "78A6D089-F9ED-4D4F-93F7-B8CDBA569ED0",
+        "publish": true,
+        "virtual": false,
+        "link": "https://events.vtools.ieee.org/m/505232",
+        "ieee-attending": 6,
+        "guests-attending": 0,
+        "created-at": "2025-10-05T07:20:03.000Z",
+        "updated-at": "2025-10-05T07:26:29.000Z",
+        "pricing": null,
+        "speakers": null,
+        "media": null,
+        "enhanced-report": null
+      },
+      "relationships": {
+        "state": {
+          "data": {
+            "type": "states",
+            "id": "1119"
+          }
+        },
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "4"
+          }
+        },
+        "subcategory": {
+          "data": {
+            "type": "subcategories",
+            "id": "9"
+          }
+        },
+        "menus": {
+          "data": []
+        }
+      }
+    }
+  ],
+  "meta": {
+    "version": "vTools Api::V7",
+    "messages": [],
+    "paging": {
+      "page": 1,
+      "limit": 500,
+      "total_pages": 1
+    }
+  },
+  "included": [
+    {
+      "type": "categories",
+      "id": "3",
+      "attributes": {
+        "id": 3,
+        "name": "Nontechnical",
+        "archived": false,
+        "subcategories": [
+          {
+            "id": 5,
+            "name": "Social",
+            "category_id": 3,
+            "archived": false
+          },
+          {
+            "id": 6,
+            "name": "Awards Dinner",
+            "category_id": 3,
+            "archived": false
+          },
+          {
+            "id": 7,
+            "name": "Pre-University Activities",
+            "category_id": 3,
+            "archived": false
+          },
+          {
+            "id": 8,
+            "name": "Nontechnical (Other)",
+            "category_id": 3,
+            "archived": false
+          }
+        ]
+      }
+    },
+    {
+      "type": "countries",
+      "id": "135",
+      "attributes": {
+        "id": 135,
+        "name": "Mexico",
+        "abbreviation": "MX",
+        "states": [
+          {
+            "id": 1089,
+            "name": "Aguascalientes",
+            "abbreviation": "AGS",
+            "country_id": 135
+          },
+          {
+            "id": 1090,
+            "name": "Baja California",
+            "abbreviation": "BCN",
+            "country_id": 135
+          },
+          {
+            "id": 1091,
+            "name": "Baja California Sur",
+            "abbreviation": "BCS",
+            "country_id": 135
+          },
+          {
+            "id": 1092,
+            "name": "Campeche",
+            "abbreviation": "CAM",
+            "country_id": 135
+          },
+          {
+            "id": 1093,
+            "name": "Chiapas",
+            "abbreviation": "CHS",
+            "country_id": 135
+          },
+          {
+            "id": 1094,
+            "name": "Chihuahua",
+            "abbreviation": "CHI",
+            "country_id": 135
+          },
+          {
+            "id": 1095,
+            "name": "Coahuila",
+            "abbreviation": "COA",
+            "country_id": 135
+          },
+          {
+            "id": 1096,
+            "name": "Colima",
+            "abbreviation": "COL",
+            "country_id": 135
+          },
+          {
+            "id": 1097,
+            "name": "Distrito Federal",
+            "abbreviation": "DF",
+            "country_id": 135
+          },
+          {
+            "id": 1098,
+            "name": "Durango",
+            "abbreviation": "DGO",
+            "country_id": 135
+          },
+          {
+            "id": 1099,
+            "name": "Guanajuato",
+            "abbreviation": "GTO",
+            "country_id": 135
+          },
+          {
+            "id": 1100,
+            "name": "Guerrero",
+            "abbreviation": "GRO",
+            "country_id": 135
+          },
+          {
+            "id": 1101,
+            "name": "Hidalgo",
+            "abbreviation": "HGO",
+            "country_id": 135
+          },
+          {
+            "id": 1102,
+            "name": "Jalisco",
+            "abbreviation": "JAL",
+            "country_id": 135
+          },
+          {
+            "id": 1103,
+            "name": "Mexico",
+            "abbreviation": "MEX",
+            "country_id": 135
+          },
+          {
+            "id": 1104,
+            "name": "Michoacan de Ocampo",
+            "abbreviation": "MIC",
+            "country_id": 135
+          },
+          {
+            "id": 1105,
+            "name": "Morelos",
+            "abbreviation": "MOR",
+            "country_id": 135
+          },
+          {
+            "id": 1106,
+            "name": "Nayarit",
+            "abbreviation": "NAY",
+            "country_id": 135
+          },
+          {
+            "id": 1107,
+            "name": "Nuevo Leon",
+            "abbreviation": "NLN",
+            "country_id": 135
+          },
+          {
+            "id": 1108,
+            "name": "Oaxaca",
+            "abbreviation": "OAX",
+            "country_id": 135
+          },
+          {
+            "id": 1109,
+            "name": "Puebla",
+            "abbreviation": "PUE",
+            "country_id": 135
+          },
+          {
+            "id": 1110,
+            "name": "Queretaro de Arteaga",
+            "abbreviation": "QRO",
+            "country_id": 135
+          },
+          {
+            "id": 1111,
+            "name": "Quintana Roo",
+            "abbreviation": "QTR",
+            "country_id": 135
+          },
+          {
+            "id": 1112,
+            "name": "San Luis Potosi",
+            "abbreviation": "SLP",
+            "country_id": 135
+          },
+          {
+            "id": 1113,
+            "name": "Sinaloa",
+            "abbreviation": "SIN",
+            "country_id": 135
+          },
+          {
+            "id": 1114,
+            "name": "Sonora",
+            "abbreviation": "SON",
+            "country_id": 135
+          },
+          {
+            "id": 1115,
+            "name": "Tabasco",
+            "abbreviation": "TAB",
+            "country_id": 135
+          },
+          {
+            "id": 1116,
+            "name": "Tamaulipas",
+            "abbreviation": "TAM",
+            "country_id": 135
+          },
+          {
+            "id": 1117,
+            "name": "Tlaxcala",
+            "abbreviation": "TLA",
+            "country_id": 135
+          },
+          {
+            "id": 1118,
+            "name": "Veracruz-Llave",
+            "abbreviation": "VER",
+            "country_id": 135
+          },
+          {
+            "id": 1119,
+            "name": "Yucatan",
+            "abbreviation": "YUC",
+            "country_id": 135
+          },
+          {
+            "id": 1120,
+            "name": "Zacatecas",
+            "abbreviation": "ZAC",
+            "country_id": 135
+          }
+        ]
+      }
+    },
+    {
+      "type": "states",
+      "id": "1119",
+      "attributes": {
+        "id": 1119,
+        "name": "Yucatan"
+      },
+      "relationships": {
+        "country": {
+          "data": {
+            "type": "countries",
+            "id": "135"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "4",
+      "attributes": {
+        "id": 4,
+        "name": "Administrative",
+        "archived": false,
+        "subcategories": [
+          {
+            "id": 9,
+            "name": "ExCom",
+            "category_id": 4,
+            "archived": false
+          },
+          {
+            "id": 10,
+            "name": "Officer Training",
+            "category_id": 4,
+            "archived": false
+          }
+        ]
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2",
+      "attributes": {
+        "id": 2,
+        "name": "Technical",
+        "archived": false,
+        "subcategories": []
+      }
+    },
+    {
+      "type": "categories",
+      "id": "6",
+      "attributes": {
+        "id": 6,
+        "name": "Pre-U STEM Program",
+        "archived": false,
+        "subcategories": [
+          {
+            "id": 13,
+            "name": "Camp",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 14,
+            "name": "Career Day",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 15,
+            "name": "Competition/STEM Fairs",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 16,
+            "name": "Girls in STEM",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 17,
+            "name": "Industry/Company Tour",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 18,
+            "name": "Mentoring",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 19,
+            "name": "Parent Program",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 20,
+            "name": "Student Workshop",
+            "category_id": 6,
+            "archived": false
+          },
+          {
+            "id": 21,
+            "name": "Teacher Workshop",
+            "category_id": 6,
+            "archived": false
+          }
+        ]
+      }
+    }
+  ]
+}
