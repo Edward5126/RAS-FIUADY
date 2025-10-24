@@ -68,7 +68,7 @@ function mostrarActividadesListas(datos) {
 
 // --- Flujo principal ---
 async function iniciarCarga() {
-    const actividades = await obtenerDatosDeActividades('../JSON/Actividadesoctubre2025.json');
+    const actividades = await obtenerDatosDeActividades('https://edward5126.github.io/RAS-FIUADY/JSON/Activities.json');
     
     // Si los datos se obtuvieron correctamente
     if (actividades) {
