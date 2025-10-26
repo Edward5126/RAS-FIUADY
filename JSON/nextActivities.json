@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "IEEEXtreme: Competencia de Programación",
+        "date" : "2025-10-24",
+        "link" : "https://www.instagram.com/p/DPt2ndfACHM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "featured" : false
+    },
+    {
+        "title" : "Batalla de Robots: 1er Concurso Anual",
+        "date" : "2025-11-21",
+        "link" : "-",
+        "featured" : true
+    },
+    {
+        "title" : "Stand: Feria de Día de Muertos",
+        "date" : "2025-10-31",
+        "link" : "-",
+        "featured" : false
+    },
+    {
+        "title" : "Participación: Semana de Ingeniería FIUADY",
+        "date" : "2025-11-07",
+        "link" : "-",
+        "featured" : false
+    }
+]

@@ -209,6 +209,23 @@ html {
     font-weight: normal;
   }
 
+  .featuredLinked h4 {
+    text-align: left;
+  }
+
+  .featuredNoLinked h4 {
+    text-align: center;
+    width: 100%;
+  }
+
+  .featuredLinked span, .featuredNoLinked span {
+    opacity: 0.65;
+  }
+
+  .featuredLinked b, .featuredNoLinked b {
+    font-size: 1.3rem;
+  }
+
   .whiteSec {
     background-color: var(--Blanco);
     color: var(--Negro);
@@ -446,7 +463,7 @@ html {
   }
 
   .joinCard p {
-    font-size: 0.8rem;
+    font-size: 0.95rem;
     margin-bottom: 2.5dvh;
   }
 
@@ -716,6 +733,10 @@ footer > div:last-child a {
   height: 25dvh;
 }
 
+#nextActivitiesCarrousel:has(#activitiesEmpty) {
+  min-width: 100%;
+}
+
   .nextActivityCard {
     border: var(--Blanco3ero) solid 1.7px;
     border-radius: 15px;
@@ -782,6 +803,10 @@ footer > div:last-child a {
 .nextActivityCard:hover .buttonB {
   color: var(--Blanco);
   background: var(--Degradado-Principal);
+}
+
+#activitiesEmpty {
+  width: 100%;
 }
 
 #pastActivitiesSec {
@@ -988,6 +1013,8 @@ form textarea {
 
 .oculto {
   display: none;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .visible {
@@ -1092,12 +1119,21 @@ main, section, footer  {
     color: var(--Negro);
   }
 
-  #MenuHamburguesa {
+  #MenuHamburguesa, nav > div > img {
     z-index: 3000;
   }
 
   #enlacesNav {
-    display: none;
+    background-color: unset;
+    backdrop-filter: unset;
+    flex-direction: column-reverse;
+    top: 70dvh;
+    padding-top: unset;
+    justify-content: flex-end;
+  }
+
+  #joinButton {
+    background-color: unset;
   }
 
   #mainCover > h1 {
@@ -1128,6 +1164,10 @@ main, section, footer  {
   #featured a {
     margin-top: 1rem;
     width: 60%;
+  }
+
+  .featuredLinked h4 {
+    text-align: center;
   }
 
   #IEEEIntroduction > div {
@@ -1212,6 +1252,7 @@ nav {
 .memberCard, .benefitCard {
   width: auto;
   height: 30dvh;
+  border: var(--Blanco3ero) solid 1.7px;
 }
 
 .memberCard h3, .benefitCard h3 {
