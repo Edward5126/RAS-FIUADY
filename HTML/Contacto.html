@@ -7,8 +7,8 @@
 
     <link rel="shortcut icon" href="../IMG/favicon.svg" type="image/x-icon" />
 
-    <link rel="stylesheet" href="../CSS/styles.css">
-    <link rel="stylesheet" href="../ICONS/ColeccionIconos/style.css">
+    <link rel="stylesheet" href="../CSS/styles.css" />
+    <link rel="stylesheet" href="../ICONS/ColeccionIconos/style.css" />
   </head>
   <body>
     <nav>
@@ -29,10 +29,26 @@
       </div>
       <div>
         <ul id="enlacesNav">
-          <li><a href="https://www.instagram.com/ras.uady/" target="_blank" rel="noopener noreferrer"><i class="icon icon-Instagram1"></i></a></li>
-          <li><a href="https://www.facebook.com/RAS.UADY" target="_blank" rel="noopener noreferrer"><i class="icon icon-Facebook2"></i></a></li>
           <li>
-            <a href="../index.html#JoinRAS" id="joinButton"><i class="icon icon-trato" id="iconCTA"></i> Unirme</a>
+            <a
+              href="https://www.instagram.com/ras.uady/"
+              target="_blank"
+              rel="noopener noreferrer"
+              ><i class="icon icon-Instagram1"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.facebook.com/RAS.UADY"
+              target="_blank"
+              rel="noopener noreferrer"
+              ><i class="icon icon-Facebook2"></i
+            ></a>
+          </li>
+          <li>
+            <a href="../index.html#JoinRAS" id="joinButton"
+              ><i class="icon icon-trato" id="iconCTA"></i> Unirme</a
+            >
           </li>
         </ul>
       </div>
@@ -42,105 +58,187 @@
       <main class="whiteSec" id="Contacto">
         <h1>Contacto</h1>
         <p class="secDescription">
-            ¿Tienes dudas, comentarios o quieres más información para unirte al capítulo? Escríbenos y con gusto te responderemos. Estamos aquí para ayudarte a dar tus primeros pasos en el mundo de la robótica y automatización.
+          ¿Tienes dudas, comentarios o quieres más información para unirte al
+          capítulo? Escríbenos y con gusto te responderemos. Estamos aquí para
+          ayudarte a dar tus primeros pasos en el mundo de la robótica y
+          automatización.
         </p>
         <div>
           <div>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a
+              href="http://www.google.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <div class="socialCard">
-              <i class="icon icon-Mail"></i>
-              <span>ieeeuady@gmail.com</span>
-            </div>
+                <i class="icon icon-Mail"></i>
+                <span>ras.fiuady@gmail.com</span>
+              </div>
             </a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a
+              href="http://www.google.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <div class="socialCard">
-              <i class="icon icon-WhatsApp"></i>
-              <span>999 379 0275</span>
-            </div>
+                <i class="icon icon-WhatsApp"></i>
+                <span>999 379 0275</span>
+              </div>
             </a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a
+              href="http://www.google.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <div class="socialCard">
-              <i class="icon icon-mapa"></i>
-              <span>ieeeuady@gmail.com</span>
-            </div>
+                <i class="icon icon-mapa"></i>
+                <span>ieeeuady@gmail.com</span>
+              </div>
             </a>
             <div class="socialLinkCard">
-              <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i class="icon icon-Facebook2"></i></a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i class="icon icon-Instagram1"></i></a>
+              <a
+                href="http://www.google.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><i class="icon icon-Facebook2"></i
+              ></a>
+              <a
+                href="http://www.google.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><i class="icon icon-Instagram1"></i
+              ></a>
             </div>
           </div>
-          <div>
-            <form action="../PHP/contact.php" method="post" id="contactForm" oninput="verifyForm()">
-              <label for="Asunto" id="asuntoLabel" class="labelForm"><span class="inputFilled labelCustom" id="asuntoLabelCustom">Asunto</span>
-                <select name="Asunto" id="Asunto" oninput="topicChange(event)" class="inputForm">
-                <option value="1">Duda</option>
-                <option value="2">Sugerencia</option>
-                <option value="3">Opinión</option>
-                <option value="4">Reporte/Queja</option>
-                <option value="5">Invitación</option>
-                <option value="6">Otro</option>
-              </select>
-              <input type="text" name="" id="asuntoPers" placeholder="Especifique..." class="inputForm oculto" oninput="inputFilled(event, 0)">
+          <div style="display: none">
+            <form
+              action="../PHP/contact.php"
+              method="post"
+              id="contactForm"
+              oninput="verifyForm()"
+            >
+              <label for="Asunto" id="asuntoLabel" class="labelForm"
+                ><span class="inputFilled labelCustom" id="asuntoLabelCustom"
+                  >Asunto</span
+                >
+                <select
+                  name="Asunto"
+                  id="Asunto"
+                  oninput="topicChange(event)"
+                  class="inputForm"
+                >
+                  <option value="1">Duda</option>
+                  <option value="2">Sugerencia</option>
+                  <option value="3">Opinión</option>
+                  <option value="4">Reporte/Queja</option>
+                  <option value="5">Invitación</option>
+                  <option value="6">Otro</option>
+                </select>
+                <input
+                  type="text"
+                  name=""
+                  id="asuntoPers"
+                  placeholder="Especifique..."
+                  class="inputForm oculto"
+                  oninput="inputFilled(event, 0)"
+                />
               </label>
-              
-              <label for="email" class="labelForm"><span class="labelCustom">e-mail</span>
-              <input type="email" name="email" id="email" placeholder="alguien@ejemplo.com" class="inputForm" oninput="inputFilled(event, 1)">
+
+              <label for="email" class="labelForm"
+                ><span class="labelCustom">e-mail</span>
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  placeholder="alguien@ejemplo.com"
+                  class="inputForm"
+                  oninput="inputFilled(event, 1)"
+                />
               </label>
-              <label for="Nombre" class="labelForm"><span class="labelCustom">Nombre</span>
-              <input type="text" name="Nombre" id="Nombre" placeholder="Escriba su nombre" class="inputForm" oninput="inputFilled(event, 2)">
-            </label>
-              <label for="Mensaje" class="labelForm"><span class="labelCustom">Mensaje</span>
-              <textarea name="Mensaje" id="Mensaje" placeholder="Escriba su mensaje" class="inputForm" oninput="inputFilled(event, 3)"></textarea>
-            </label>
-              <button type="submit" class="buttonC" id="buttonForm" disabled>Enviar mensaje</button>
-            <span id="formLegend" class="oculto">El mensaje ha sido enviado con éxito</span>
+              <label for="Nombre" class="labelForm"
+                ><span class="labelCustom">Nombre</span>
+                <input
+                  type="text"
+                  name="Nombre"
+                  id="Nombre"
+                  placeholder="Escriba su nombre"
+                  class="inputForm"
+                  oninput="inputFilled(event, 2)"
+                />
+              </label>
+              <label for="Mensaje" class="labelForm"
+                ><span class="labelCustom">Mensaje</span>
+                <textarea
+                  name="Mensaje"
+                  id="Mensaje"
+                  placeholder="Escriba su mensaje"
+                  class="inputForm"
+                  oninput="inputFilled(event, 3)"
+                ></textarea>
+              </label>
+              <button type="submit" class="buttonC" id="buttonForm" disabled>
+                Enviar mensaje
+              </button>
+              <span id="formLegend" class="oculto"
+                >El mensaje ha sido enviado con éxito</span
+              >
             </form>
           </div>
         </div>
-    </main>
+      </main>
 
-    <footer>
-      <div>
-        <div>
-          <img src="../IMG/LOGOS/LogoRAS.svg" alt="Logo de la RAS" />
-          <img src="../IMG/LOGOS/LogoIEEE.svg" alt="Logo de IEEE" />
-          <img
-            src="../IMG/LOGOS/LogoTagStudentBranch.svg"
-            alt="Tag de la rama estudiantil IEEE"
-          />
-        </div>
+      <footer>
         <div>
           <div>
-            <a href="https://www.instagram.com/ras.uady/" target="_blank" rel="noopener noreferrer"><i class="icon icon-Facebook2"></i></a>
-            <a href="https://www.facebook.com/RAS.UADY" target="_blank" rel="noopener noreferrer"><i class="icon icon-Instagram1"></i></a>
+            <img src="../IMG/LOGOS/LogoRAS.svg" alt="Logo de la RAS" />
+            <img src="../IMG/LOGOS/LogoIEEE.svg" alt="Logo de IEEE" />
+            <img
+              src="../IMG/LOGOS/LogoTagStudentBranch.svg"
+              alt="Tag de la rama estudiantil IEEE"
+            />
           </div>
-          <ul>
-            <li><a href="../index.html" target="_self">Inicio</a></li>
-            <li><a href="Nosotros.html" target="_self">Nosotros</a></li>
-            <li>
-              <a href="Actividades.html" target="_self">Actividades</a>
-            </li>
-          </ul>
-          <ul>
-            <li><a href="Membresia.html" target="_self">Membresía</a></li>
-            <li><a href="Contacto.html" target="_self">Contacto</a></li>
-            <!-- <li>Productos</li> -->
-          </ul>
+          <div>
+            <div>
+              <a
+                href="https://www.instagram.com/ras.uady/"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><i class="icon icon-Facebook2"></i
+              ></a>
+              <a
+                href="https://www.facebook.com/RAS.UADY"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><i class="icon icon-Instagram1"></i
+              ></a>
+            </div>
+            <ul>
+              <li><a href="../index.html" target="_self">Inicio</a></li>
+              <li><a href="Nosotros.html" target="_self">Nosotros</a></li>
+              <li>
+                <a href="Actividades.html" target="_self">Actividades</a>
+              </li>
+            </ul>
+            <ul>
+              <li><a href="Membresia.html" target="_self">Membresía</a></li>
+              <li><a href="Contacto.html" target="_self">Contacto</a></li>
+              <!-- <li>Productos</li> -->
+            </ul>
+          </div>
         </div>
-      </div>
-      <div>
-        <p>
-          Sitio gestionado por el Capítulo Estudiantil IEEE-RAS de la Facultad
-          de Ingeniería, UADY. IEEE y RAS son marcas registradas usadas con
-          autorización. Este sitio no representa oficialmente a IEEE ni a la
-          UADY.
-        </p>
-        <a href="AvisosLegales.html">Avisos Legales</a>
-      </div>
-    </footer>
+        <div>
+          <p>
+            Sitio gestionado por el Capítulo Estudiantil IEEE-RAS de la Facultad
+            de Ingeniería, UADY. IEEE y RAS son marcas registradas usadas con
+            autorización. Este sitio no representa oficialmente a IEEE ni a la
+            UADY.
+          </p>
+          <a href="AvisosLegales.html">Avisos Legales</a>
+        </div>
+      </footer>
     </div>
-    
+
     <script src="../JS/contact.js"></script>
-  <script src="../JS/script.js"></script>
-</body>
+    <script src="../JS/script.js"></script>
+  </body>
 </html>

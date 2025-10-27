@@ -34,8 +34,8 @@ function mostrarContenidoDestacado(content) {
   const destacado = content.filter((item) => item.featured === true)[0];
 
   if ((destacado != null) & (destacado != undefined)) {
-    if (revisarFecha(destacado.date)){
-        if (destacado.link != "-") {
+    if (revisarFecha(destacado.date)) {
+      if (destacado.link != "-") {
         document.getElementById("featured").classList.add("featuredLinked");
         document.getElementById("featured").innerHTML = `
             <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
@@ -48,8 +48,8 @@ function mostrarContenidoDestacado(content) {
             `;
       }
     } else {
-        document.getElementById("featured").innerHTML = "";
-        document.getElementById("featured").classList.add("oculto");
+      document.getElementById("featured").innerHTML = "";
+      document.getElementById("featured").classList.add("oculto");
     }
   } else {
     document.getElementById("featured").innerHTML = "";
