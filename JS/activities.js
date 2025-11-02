@@ -9,13 +9,14 @@
 // }
 
 function extraerEnlaceImagen(texto) {
-  const limpio = texto
-    .replace(/\\u003C/g, "<")
-    .replace(/\\u003E/g, ">")
+   const limpio = texto
+     .replace(/\\u003C/g, "<")
+     .replace(/\\u003E/g, ">")
     .replace(/\\u0026/g, "&");
 
-  const match = limpio.match(/<img[^>]*src="([^"]+)"/i);
-  return match ? match[1] : null;
+   const match = limpio.match(/<img[^>]*src="https:\/\/events\.vtools\.ieee\.org\/([^"]+)"/i);
+  
+   return match ? match[1] : null;
 }
 
 function formatearFecha(texto) {
@@ -42,25 +43,7 @@ function revisarFecha(fecha) {
   return fechaEvento >= hoyMediaNoche;
 }
 
-async function obtenerDatosDeActividadesPasadas(url) {
-  try {
-    const respuesta = await fetch(url);
-
-    if (!respuesta.ok) {
-      throw new Error(
-        `Error HTTP: ${respuesta.status} - ${respuesta.statusText}`
-      );
-    }
-
-    const datos = await respuesta.json();
-    return datos;
-  } catch (error) {
-    console.error("Hubo un problema al consumir la API:", error.message);
-    return null;
-  }
-}
-
-async function obtenerDatosDeActividadesSiguientes(url) {
+async function obtenerDatosDeActividades(url) {
   try {
     const respuesta = await fetch(url);
 
@@ -90,15 +73,16 @@ function mostrarActividadesListas(datos) {
 
   document.getElementById("GaleriaActivities").innerHTML = "";
 
-  ListaActividades.forEach((actividad) => {
-    document.getElementById("GaleriaActivities").innerHTML += `
+
+  const HTMLActividades = ListaActividades.map((actividad) => {
+    return `
         <a href="${
           actividad.attributes.link
         }" target="_blank" rel="noopener noreferrer" class="">
                     <div class="TarjetaActivity">
-                        <img src="${extraerEnlaceImagen(
+                        <img src="https://ik.imagekit.io/uqt0ktkhp/${extraerEnlaceImagen(
                           actividad.attributes.header
-                        )}" alt="${
+                        )}?tr=w-400,q-auto" alt="${
       actividad.attributes.title
     }" class="ImagenActivity">
                         <span class="NombreActivity">${
@@ -109,8 +93,10 @@ function mostrarActividadesListas(datos) {
                         )}</span>
                     </div>
                 </a>
-      `;
-  });
+      `
+  })
+
+  document.getElementById("GaleriaActivities").innerHTML = HTMLActividades.join("");
 }
 
 function mostrarActividadesNuevas(datos) {
@@ -120,29 +106,26 @@ function mostrarActividadesNuevas(datos) {
     .filter((actividad) => revisarFecha(actividad.date))
     .sort((a, b) => a.date.localeCompare(b.date));
 
-  if (actividadesNuevas.length > 0) {
-    document.getElementById("nextActivitiesCarrousel").innerHTML = "";
+  const HTMLActividadesNuevas = actividadesNuevas.map((actividad) => {
 
-    actividadesNuevas.forEach((element) => {
-      if (element.link != "-") {
-        document.getElementById("nextActivitiesCarrousel").innerHTML += `
+    return actividad.link != "-" ? `
                 <div class="nextActivityCard">
-                <h4>${element.title}</h4>
-                <p>${formatearFecha(element.date)}</p>
+                <h4>${actividad.title}</h4>
+                <p>${formatearFecha(actividad.date)}</p>
                 <a href="${
-                  element.link
+                  actividad.link
                 }" target="_blank" rel="noopener noreferrer" class="buttonB">Ver más</a>
             </div>
-        `;
-      } else {
-        document.getElementById("nextActivitiesCarrousel").innerHTML += `
+        ` : `
                 <div class="nextActivityCard">
-                <h4>${element.title}</h4>
-                <p>${formatearFecha(element.date)}</p>
+                <h4>${actividad.title}</h4>
+                <p>${formatearFecha(actividad.date)}</p>
             </div>
         `;
-      }
-    });
+  });
+
+  if (actividadesNuevas.length > 0) {
+    document.getElementById("nextActivitiesCarrousel").innerHTML = HTMLActividadesNuevas.join("");
   } else {
     document.getElementById("nextActivitiesCarrousel").innerHTML = `
                 <div class="nextActivityCard" id="activitiesEmpty">
@@ -180,7 +163,7 @@ function obtenerLeyendaAleatoria() {
 
 // --- Flujo principal ---
 async function iniciarCarga() {
-  const actividades = await obtenerDatosDeActividadesPasadas(
+  const actividades = await obtenerDatosDeActividades(
     "https://edward5126.github.io/RAS-FIUADY/JSON/Activities.json"
   );
 
@@ -191,7 +174,7 @@ async function iniciarCarga() {
     console.warn("No se pudieron cargar las actividades.");
   }
 
-  const actividadesNuevas = await obtenerDatosDeActividadesSiguientes(
+  const actividadesNuevas = await obtenerDatosDeActividades(
     "https://edward5126.github.io/RAS-FIUADY/JSON/nextActivities.json"
   );
 

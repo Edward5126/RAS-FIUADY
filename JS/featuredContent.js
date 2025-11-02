@@ -33,28 +33,38 @@ async function obtenerDatosDeActividadesSiguientes(url) {
 function mostrarContenidoDestacado(content) {
   const destacado = content.filter((item) => item.featured === true)[0];
 
+  console.groupCollapsed("Evento destacado");
+
   if ((destacado != null) & (destacado != undefined)) {
+    console.log("Destacado identificado");
     if (revisarFecha(destacado.date)) {
+      console.log("Destacado aún vigente");
       if (destacado.link != "-") {
+        console.log("Destacado con link");
         document.getElementById("featured").classList.add("featuredLinked");
         document.getElementById("featured").innerHTML = `
             <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
             <a href="${destacado.link}" target="_blank" rel="noopener noreferrer">Conocer más</a>
             `;
       } else {
+        console.log("Destacado sin link");
         document.getElementById("featured").classList.add("featuredNoLinked");
         document.getElementById("featured").innerHTML = `
             <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
             `;
       }
     } else {
+      console.warn("Destacado expirado");
       document.getElementById("featured").innerHTML = "";
       document.getElementById("featured").classList.add("oculto");
     }
   } else {
+    console.warn("Destacado no identificado");
     document.getElementById("featured").innerHTML = "";
     document.getElementById("featured").classList.add("oculto");
   }
+
+  console.groupEnd();
 }
 
 async function iniciarCarga() {
