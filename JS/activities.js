@@ -22,7 +22,7 @@ function extraerEnlaceImagen(texto) {
 function formatearFecha(texto) {
   let fecha = new Date(texto);
 
-  const opciones = { day: "numeric", month: "long", year: "numeric" };
+  const opciones = { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" };
 
   fechaFormateada = fecha.toLocaleDateString("es-MX", opciones);
 

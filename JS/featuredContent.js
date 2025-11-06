@@ -41,17 +41,40 @@ function mostrarContenidoDestacado(content) {
       console.log("Destacado aún vigente");
       if (destacado.link != "-") {
         console.log("Destacado con link");
-        document.getElementById("featured").classList.add("featuredLinked");
-        document.getElementById("featured").innerHTML = `
-            <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
-            <a href="${destacado.link}" target="_blank" rel="noopener noreferrer">Conocer más</a>
-            `;
+            if (destacado.call != "-") {
+              console.log("Destacado con convocatoria");
+              document.getElementById("featured").classList.add("featuredLinked");
+              document.getElementById("featured").innerHTML = `
+              <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
+              <div id="featuredLinks">
+                <a href="${destacado.link}" target="_blank" rel="noopener noreferrer">Conocer más</a>
+                <a href="${destacado.call}" target="_blank" rel="noopener noreferrer" title="Leer convocatoria"><i class="icon icon-Formulario2"></i></a>
+              </div>
+              `;
+            } else {
+              console.log("Destacado con convocatoria");
+              document.getElementById("featured").classList.add("featuredLinked");
+              document.getElementById("featured").innerHTML = `
+              <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
+              <a href="${destacado.link}" target="_blank" rel="noopener noreferrer">Conocer más</a>
+              `;
+            }
       } else {
         console.log("Destacado sin link");
-        document.getElementById("featured").classList.add("featuredNoLinked");
-        document.getElementById("featured").innerHTML = `
-            <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
-            `;
+        if (destacado.call != "-") {
+              console.log("Destacado con convocatoria");
+              document.getElementById("featured").classList.add("featuredNoLinked");
+              document.getElementById("featured").innerHTML = `
+                  <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
+                  <a href="${destacado.call}" target="_blank" rel="noopener noreferrer" title="Leer convocatoria"><i class="icon icon-Formulario2"></i></a>
+                  `;
+        } else {
+              console.log("Destacado sin convocatoria");
+              document.getElementById("featured").classList.add("featuredNoLinked");
+              document.getElementById("featured").innerHTML = `
+                  <h4><span>¡No te quedes fuera! Te esperamos en:</span><br><b>${destacado.title}</b></h4>
+                  `;
+        }
       }
     } else {
       console.warn("Destacado expirado");

@@ -10,6 +10,8 @@
   );
   --Degradado-Principal-Oscurecido: linear-gradient(to top, #37123b, #5c001c);
   --Degradado-Principal-Claro: linear-gradient(to top, #663c6b, #9b2649);
+  --Degradado-Blanco: linear-gradient(to bottom, #ffffff 0%, #dddee1 100%);
+  --Degradado-Blanco2: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%);
 
   --Blanco: whitesmoke;
   --Negro: #181818;
@@ -38,17 +40,28 @@ body::-webkit-scrollbar,
 #content::-webkit-scrollbar {
   width: 5px;
   height: 8px;
-  position: fixed;
+  position: absolute;
+  left: 50px;
+  background: transparent;
+}
+
+#content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#content::-webkit-scrollbar-corner {
+  /* color: transparent; */
+  background: transparent;
 }
 
 body::-webkit-scrollbar-thumb,
 #content::-webkit-scrollbar-thumb {
-  background-color: var(--Color-Principal-M);
+  background: var(--Degradado-Principal);
   border-radius: 5px;
 }
 
 body {
-  background-color: var(--Blanco);
+  background: var(--Degradado-Blanco);
   font-family: "Montserrat";
   overflow-x: hidden;
 }
@@ -58,7 +71,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 0.8rem 2rem;
-  background: var(--Blanco);
   border: var(--Contraste) 1px solid;
   backdrop-filter: blur(8px);
   border-radius: 10px;
@@ -74,6 +86,7 @@ nav {
   box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.05);
   -webkit-box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.05);
+  background: var(--Degradado-Blanco2);
 }
 
 nav > div:first-child {
@@ -120,7 +133,7 @@ nav > div:last-child ul {
 }
 
 #joinButton {
-  background-color: var(--Blanco);
+  background: transparent;
   border: 1px solid var(--Color-Principal-R);
   color: var(--Color-Principal-R);
   padding: 0.4rem 1.5rem;
@@ -146,7 +159,7 @@ nav > div:last-child ul {
 
 main,
 section {
-  min-height: calc(100vh - 8.7rem);
+  min-height: calc(100dvh - 12rem);
   width: calc(100vw - 5px - (2 * (((100vw - (80% - 64px)) / 2) - 2rem)));
   padding: 6rem calc(((100vw - (80% - 64px)) / 2) - 2rem);
   display: flex;
@@ -208,7 +221,7 @@ section {
 
 #featured a:hover {
   color: #181818;
-  background-color: var(--Blanco);
+  background: var(--Degradado-Blanco);
 }
 
 #featured h4 {
@@ -234,8 +247,13 @@ section {
   font-size: 1.3rem;
 }
 
+#featuredLinks {
+  display: flex;
+  gap: 1.5rem;
+}
+
 .whiteSec {
-  background-color: var(--Blanco);
+  background: var(--Degradado-Blanco);
   color: var(--Negro);
 }
 
@@ -285,7 +303,7 @@ h2 {
 }
 
 .redSec .navLinkOnPage::after {
-  background-color: var(--Blanco);
+  background: var(--Degradado-Blanco);
 }
 
 .whiteSec .navLinkOnPage::after {
@@ -408,7 +426,7 @@ h2 {
 }
 
 .activityCard {
-  background-color: var(--Blanco);
+  background: var(--Degradado-Blanco);
   color: var(--Negro);
   text-align: center;
   padding: 2.5dvh;
@@ -1263,6 +1281,11 @@ footer {
     text-align: center;
   }
 
+  #featuredLinks {
+    flex-direction: column;
+    gap: 0;
+  }
+
   #IEEEIntroduction > div {
     flex-direction: column;
   }
@@ -1308,6 +1331,7 @@ footer {
 
   #content::-webkit-scrollbar {
     display: none;
+    color: transparent;
   }
 
   #content::-webkit-scrollbar-thumb {
