@@ -9,20 +9,27 @@
 // }
 
 function extraerEnlaceImagen(texto) {
-   const limpio = texto
-     .replace(/\\u003C/g, "<")
-     .replace(/\\u003E/g, ">")
+  const limpio = texto
+    .replace(/\\u003C/g, "<")
+    .replace(/\\u003E/g, ">")
     .replace(/\\u0026/g, "&");
 
-   const match = limpio.match(/<img[^>]*src="https:\/\/events\.vtools\.ieee\.org\/([^"]+)"/i);
-  
-   return match ? match[1] : null;
+  const match = limpio.match(
+    /<img[^>]*src="https:\/\/events\.vtools\.ieee\.org\/([^"]+)"/i
+  );
+
+  return match ? match[1] : null;
 }
 
 function formatearFecha(texto) {
   let fecha = new Date(texto);
 
-  const opciones = { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" };
+  const opciones = {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  };
 
   fechaFormateada = fecha.toLocaleDateString("es-MX", opciones);
 
@@ -41,6 +48,20 @@ function revisarFecha(fecha) {
   );
 
   return fechaEvento >= hoyMediaNoche;
+}
+
+function revisarHoy(fecha) {
+  const [anio, mes, dia] = fecha.split("-").map(Number);
+  const fechaEvento = new Date(anio, mes - 1, dia);
+
+  const hoyCompleto = new Date();
+  const hoyMediaNoche = new Date(
+    hoyCompleto.getFullYear(),
+    hoyCompleto.getMonth(),
+    hoyCompleto.getDate()
+  );
+
+  return fechaEvento.toDateString() == hoyMediaNoche.toDateString();
 }
 
 async function obtenerDatosDeActividades(url) {
@@ -73,7 +94,6 @@ function mostrarActividadesListas(datos) {
 
   document.getElementById("GaleriaActivities").innerHTML = "";
 
-
   const HTMLActividades = ListaActividades.map((actividad) => {
     return `
         <a href="${
@@ -93,10 +113,11 @@ function mostrarActividadesListas(datos) {
                         )}</span>
                     </div>
                 </a>
-      `
-  })
+      `;
+  });
 
-  document.getElementById("GaleriaActivities").innerHTML = HTMLActividades.join("");
+  document.getElementById("GaleriaActivities").innerHTML =
+    HTMLActividades.join("");
 }
 
 function mostrarActividadesNuevas(datos) {
@@ -107,25 +128,37 @@ function mostrarActividadesNuevas(datos) {
     .sort((a, b) => a.date.localeCompare(b.date));
 
   const HTMLActividadesNuevas = actividadesNuevas.map((actividad) => {
-
-    return actividad.link != "-" ? `
+    return actividad.link != "-"
+      ? `
                 <div class="nextActivityCard">
                 <h4>${actividad.title}</h4>
+                ${
+                  revisarHoy(actividad.date)
+                    ? `<span class="todayAct">¡Es hoy!</span>`
+                    : ``
+                }
                 <p>${formatearFecha(actividad.date)}</p>
                 <a href="${
                   actividad.link
                 }" target="_blank" rel="noopener noreferrer" class="buttonB">Ver más</a>
             </div>
-        ` : `
+        `
+      : `
                 <div class="nextActivityCard">
                 <h4>${actividad.title}</h4>
+                ${
+                  revisarHoy(actividad.date)
+                    ? `<span class="todayAct">¡Es hoy!</span>`
+                    : ``
+                }
                 <p>${formatearFecha(actividad.date)}</p>
             </div>
         `;
   });
 
   if (actividadesNuevas.length > 0) {
-    document.getElementById("nextActivitiesCarrousel").innerHTML = HTMLActividadesNuevas.join("");
+    document.getElementById("nextActivitiesCarrousel").innerHTML =
+      HTMLActividadesNuevas.join("");
   } else {
     document.getElementById("nextActivitiesCarrousel").innerHTML = `
                 <div class="nextActivityCard" id="activitiesEmpty">
@@ -144,7 +177,7 @@ const leyendasVacias = [
   "De momento no hay eventos programados. ¡Revisa esta sección próximamente!",
   "Aún no hay actividades agendadas. ¡Pronto publicaremos las siguientes!",
   "¡Calma! Aún no hay eventos, pero ya estamos trabajando en ello. ¡No te desconectes!",
-  'Por ahora no hay nada agendado. ¡Estamos "cocinando" lo que sigue!', // (Ojo: escapamos las comillas internas)
+  'Por ahora no hay nada agendado. ¡Estamos "cocinando" lo que sigue!',
   "¡Ahorita no hay eventos, pero espéralos! Pronto tendremos novedades.",
   "Aún no publicamos nuevas actividades. ¡Paciencia, que ya vienen!",
   "¡Tranquilo! Pronto llenaremos esta agenda. ¡Mantente atento!",
