@@ -96,7 +96,7 @@ nav > div:first-child {
 }
 
 nav > div > img {
-  height: 32px;
+  height: 2.5rem;
 }
 
 nav ul {
@@ -1254,13 +1254,13 @@ footer {
     bottom: 0;
     right: 0;
     left: 0;
-    background-color: rgba(245, 245, 245, 0.827);
-    backdrop-filter: blur(5px);
+    background-color: rgba(245, 245, 245, 1);
+    /* backdrop-filter: blur(5px); */
     z-index: 2800;
     transition: all ease 0.3s;
     margin: 0;
-    padding-top: 20vh;
-    font-size: 1.3rem;
+    padding-top: 25vh;
+    font-size: 1.15rem;
   }
 
   nav > div > ul a {
@@ -1272,13 +1272,66 @@ footer {
     z-index: 3000;
   }
 
+  nav > div > img {
+    max-width: 60%;
+  }
+
+  #navList > li {
+    /* font-size: 1rem; */
+    position: relative;
+    text-align: center;
+  }
+
   #enlacesNav {
     background-color: unset;
     backdrop-filter: unset;
-    flex-direction: column-reverse;
-    top: 70dvh;
-    padding-top: unset;
-    justify-content: flex-end;
+    top: unset;
+    bottom: 10dvh;
+    gap: unset;
+
+    display: grid;
+    grid-template-areas:
+      "button button"
+      "instagram facebook";
+    grid-template-columns: 1fr 1fr;
+
+    max-width: calc(100dvw - 64px);
+    margin: 0 1rem;
+    padding: 0 1.5rem;
+  }
+
+  #enlacesNav li:last-child {
+    grid-area: button;
+    padding: 15px 0;
+    text-align: center;
+  }
+
+  #joinButton {
+    width: 50%;
+    /* font-size: 1rem; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #enlacesNav li:first-child {
+    grid-area: instagram;
+    padding: 15px;
+    text-align: right;
+  }
+
+  #enlacesNav li:nth-child(2) {
+    grid-area: facebook;
+    padding: 15px;
+    text-align: left;
+  }
+
+  #enlacesNav li:first-child a,
+  #enlacesNav li:nth-child(2) a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
   }
 
   #joinButton {
